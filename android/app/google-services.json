@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "148964649748",
+    "project_id": "mobappsairambus",
+    "storage_bucket": "mobappsairambus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148964649748:android:279e0a341452b51105f001",
+        "android_client_info": {
+          "package_name": "com.flutterflow.edriveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148964649748-rskmhvk5hujph10kij2h9qsimiocbef1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBslIiojOgk3B1alfuC7vj7KCT4zpYG3rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148964649748-dg8hkv2q9m6hc66in075509p683idjr8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148964649748-5qnggnu6el2ch840tn8qdkln4g7rl6vs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.edriveapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
